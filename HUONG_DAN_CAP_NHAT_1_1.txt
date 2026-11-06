@@ -1,0 +1,9 @@
+SỔ TAY VẬT LÍ 9 - BẢN MẪU 1.1
+
+1. Giải nén ZIP.
+2. Mở index.html bằng Chrome/Edge.
+3. Chạm vào nút, liên kết để nghe tiếng chạm.
+4. Nút 🔊/🔇 ở góc trên bật/tắt âm. Trình duyệt chỉ cho phát tiếng sau thao tác của người dùng.
+5. Các biểu tượng được thiết kế dạng nổi 3D bằng CSS kết hợp emoji; ngoại hình emoji tùy thiết bị.
+6. Thông tin © 2026 Cô Thùy Mến ở cuối từng trang và phần giới thiệu chỉ là ghi nhận tác giả; không phải chứng nhận đăng ký bản quyền.
+7. Bản này chưa được đưa lên HTTPS nên chưa thể cài PWA từ tệp trên ổ đĩa.

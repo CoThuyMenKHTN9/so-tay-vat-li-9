@@ -1,0 +1,16 @@
+SỔ TAY VẬT LÍ 9 – BẢN MẪU 1.4
+
+CÁCH MỞ TRÊN MÁY TÍNH:
+1. Giải nén toàn bộ tệp ZIP.
+2. Vào thư mục SoTayVatLi9_3D_CongNghe_v1_4.
+3. Nhấp đúp index.html để mở bằng Chrome hoặc Edge.
+4. Chọn Giới thiệu để xem logo và thông tin sáng kiến đầy đủ.
+
+CẬP NHẬT 1.4:
+- Địa chỉ đơn vị đầy đủ: Trường THCS Ninh Hải – Phân hiệu Hà Huy Tập, xã Ninh Hải, tỉnh Khánh Hòa.
+- Hiển thị tại phần chân trang và Giới thiệu; bổ sung thẻ nhận diện tác giả có logo riêng.
+- Nâng nhãn phiên bản 1.4 và bộ nhớ đệm PWA để tránh giữ bản cũ khi triển khai HTTPS.
+
+GIỮ NGUYÊN: logo Cô Thùy Mến, icon công nghệ 3D, âm thanh khi chọn, 17 bài học và hình Canva, Bài 2 chữ lớn, liên kết, game Đua thuyền.
+
+GIỚI HẠN: bản mẫu chưa là APK và chưa triển khai lên hosting HTTPS; chưa có dữ liệu cá nhân nhiều trường hoặc kiểm thử toàn bộ liên kết bên ngoài. Các hoạt động Google Apps Script cần Internet và quyền truy cập phù hợp.
